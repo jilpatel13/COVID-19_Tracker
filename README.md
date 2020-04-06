@@ -10,7 +10,7 @@ Visit the application [click here](https://covid-19-tracker-654fd.web.app/)
 
 -------------------------------------------------------
 
-### API available [here](https://covid19.mathdro.id/api)
+* API available [here](https://covid19.mathdro.id/api) *
 
 
 ## Available Scripts
