@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Visit here](https://covid-19-tracker-654fd.web.app/)
+Visit the application[click here](https://covid-19-tracker-654fd.web.app/)
 
 <img src="home.png" />
 
