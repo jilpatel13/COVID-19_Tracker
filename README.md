@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Visit here](https://covid-19-tracker-654fd.web.app/)
 
+<img src="home.png" />
+
 ## Available Scripts
 
 In the project directory, you can run:
