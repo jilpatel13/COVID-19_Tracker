@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="home.png" />
 
+-------------------------------------------------------
+
+<img src="image.png" />
+
+
 ## Available Scripts
 
 In the project directory, you can run:
