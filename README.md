@@ -8,6 +8,10 @@ Visit the application [click here](https://covid-19-tracker-654fd.web.app/)
 
 <img src="image.png" />
 
+-------------------------------------------------------
+
+#API available [here](https://covid19.mathdro.id/api)
+
 
 ## Available Scripts
 
